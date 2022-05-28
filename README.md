@@ -22,7 +22,7 @@ Sanyerlis Camacaro     sancamac@uat.edu-->
    <h1> 
        UAT Space Program
          </h1> 
-         <script src="CountDownTimer.js"></script>
+         <script src="Loops.js"></script>
  <h2><script>
     //Testing line
     document.write("Mission Control");
